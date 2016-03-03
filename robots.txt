@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pradeekyahvi.github.io/codelogs/sitemap.xml 
